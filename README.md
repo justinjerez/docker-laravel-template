@@ -1,6 +1,6 @@
 # Docker Laravel Template
 
-This is a basic docker configuration for laravel for local development, use in production at you own risk.
+This is a basic docker configuration for laravel for local development, use in production at you own risk. This configuration has been tested in both windows and linux with a newly created laravel project.
 
 ## Containers
 
